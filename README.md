@@ -3,13 +3,13 @@
 Hi, I'm a full stack developer with a background in advertising, journalism, and content management. I'm excited to apply my experience presenting to clients, collaborating across teams, and thinking creatively to a career in software engineering. 
 
 ### My Tech Stack
-  • React.js
-  • JavaScript
-  • Ruby on Rails 
+- React.js
+- JavaScript
+- Ruby on Rails 
   
  ### Current Project
  🌀 Unwind - an app that teaches users breathing techniques to relax
- [frontend](https://github.com/vmar13/unwind-frontend) | [backend] (https://github.com/vmar13/unwind-backend)
+ [frontend](https://github.com/vmar13/unwind-frontend) | [backend](https://github.com/vmar13/unwind-backend)
  
  
 <!--
