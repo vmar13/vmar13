@@ -8,7 +8,7 @@ Hi, I'm a full stack developer with a background in advertising, journalism, and
 - Ruby on Rails 
   
  ### Current Project
- 🌀 Unwind - an app that teaches users breathing techniques to relax
+ 🌀 Unwind - an app that teaches users breathing techniques to relax<br />
  [frontend](https://github.com/vmar13/unwind-frontend) | [backend](https://github.com/vmar13/unwind-backend)
  
  
