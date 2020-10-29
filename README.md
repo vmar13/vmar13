@@ -9,8 +9,9 @@ Hi, I'm a full stack developer with a background in advertising, journalism, and
   
  ### Current Project
  🌀 Unwind - an app that teaches users breathing techniques to relax<br />
- [frontend](https://github.com/vmar13/unwind-frontend) | [backend](https://github.com/vmar13/unwind-backend)
+ [frontend](https://github.com/vmar13/unwind-frontend) | [backend](https://github.com/vmar13/unwind-backend) <br />
  
+ Check out a [Medium](https://vmar76.medium.com/using-css-animations-to-visualize-breathing-techniques-7a20ee0aed5a) article 📝 I wrote about the CSS animations I'm working on for each breathing technique.
  
 <!--
 **vmar13/vmar13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
