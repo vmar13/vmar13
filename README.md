@@ -13,7 +13,7 @@ Hi, I'm a full stack developer with a background in advertising, journalism, and
  
  Check out a [Medium](https://vmar76.medium.com/using-css-animations-to-visualize-breathing-techniques-7a20ee0aed5a) article 📝 I wrote about the CSS animations I'm working on for each breathing technique.
  
- ## Contact Me
+ ### Contact
  📫 vmar76@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/vanessa-martinez-995b7059/)
  
 <!--
