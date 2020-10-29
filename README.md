@@ -14,8 +14,8 @@ Hi, I'm a full stack developer with a background in advertising, journalism, and
  Check out a [Medium](https://vmar76.medium.com/using-css-animations-to-visualize-breathing-techniques-7a20ee0aed5a) article 📝 I wrote about the CSS animations I'm working on for each breathing technique.
  
  ### Previous Projects
- 🍄 [F in Tea](youtu.be/l5ohska93hi) - an app for learning the medicinal benefits of mushroom teas and how to brew your own tea at home <br />
- 📒 [RecipeKeeper](youtu.be/gzzpe8y9l1u) - a place to store and browse through all your favorite recipes
+ 🍄 [F in Tea](https://www.youtube.com/watch?v=l5ohSkA93hI&t=29s) - an app for learning the medicinal benefits of mushroom teas and how to brew your own tea at home <br />
+ 📒 [RecipeKeeper](https://www.youtube.com/watch?v=gzZPe8y9l1U) - a place to store and browse through all your favorite recipes
  
  ### Contact
  📫 vmar76@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/vanessa-martinez-995b7059/)
