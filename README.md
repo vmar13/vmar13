@@ -1,6 +1,6 @@
 ### About Me
 
-Hi, I'm a full stack developer with a background in advertising, journalism, and content management. I'm excited to apply my experience presenting to clients, collaborating across teams, and thinking creatively to a career in software engineering. 
+Hi, I'm a full stack developer with a background in advertising, journalism, and content management. My passion is for health and wellness, but I'm always open to learn new things. When I'm not coding, I'm hiking, cooking, or painting.
 
 ### My Tech Stack
 - React.js
