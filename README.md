@@ -8,7 +8,7 @@ Hi, I'm a full stack developer with a background in advertising, journalism, and
 - Ruby on Rails 
   
  ### Current Project
- 🌀 Unwind - an app that teaches users breathing techniques to relax<br />
+ 🌀 [Unwind](https://www.youtube.com/watch?v=v7KwQT727PM&feature=youtu.be) - an app that teaches users breathing techniques to relax<br />
  [frontend](https://github.com/vmar13/unwind-frontend) | [backend](https://github.com/vmar13/unwind-backend) <br />
  
  Check out a [Medium](https://vmar76.medium.com/using-css-animations-to-visualize-breathing-techniques-7a20ee0aed5a) article 📝 I wrote about the CSS animations I'm working on for each breathing technique.
