@@ -1,6 +1,6 @@
 ### About Me
 
-Hi, I'm a full stack developer with a background in advertising, journalism, and content management. My passion is for health and wellness, but I'm always open to learn new things. When I'm not coding, I'm hiking, cooking, or painting.
+Hi, I'm a full stack software engineer with a background in advertising, journalism, and content management. My passion is for health and wellness, but I'm always open to learn new things. When I'm not coding, I'm hiking, cooking, or painting.
 
 ### My Tech Stack
 - React.js
@@ -18,7 +18,7 @@ Hi, I'm a full stack developer with a background in advertising, journalism, and
  📒 [RecipeKeeper](https://www.youtube.com/watch?v=gzZPe8y9l1U) - a place to store and browse through all your favorite recipes
  
  ### Contact
- 📫 vmar76@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/vanessa-martinez-995b7059/)
+ 💼 [LinkedIn](https://www.linkedin.com/in/vanessa-martinez-995b7059/)
  
 <!--
 **vmar13/vmar13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
