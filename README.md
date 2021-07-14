@@ -12,7 +12,10 @@ Hi, I'm a full stack software engineer with a background in advertising, journal
  [frontend](https://github.com/vmar13/unwind-frontend) | [backend](https://github.com/vmar13/unwind-backend) <br />
  
  🍄 [F in Tea](https://www.youtube.com/watch?v=l5ohSkA93hI&t) - an app for learning the medicinal benefits of mushroom teas and how to brew your own tea at home <br />
- 📒 [RecipeKeeper](https://www.youtube.com/watch?v=gzZPe8y9l1U) - a place to store and browse through all your favorite recipes
+  [frontend](https://github.com/vmar13/mushroom-frontend) | [backend](https://github.com/vmar13/mushroom-backend) <br />
+  
+ 📒 [RecipeKeeper](https://www.youtube.com/watch?v=gzZPe8y9l1U) - a place to store and browse through all your favorite recipes <br />
+ [frontend](https://github.com/vmar13/recipeKeeper-client) | [backend](https://github.com/vmar13/recipeKeeper) <br />
  
  ### Contact
  💼 [LinkedIn](https://www.linkedin.com/in/vanessa-martinez-995b7059/)
