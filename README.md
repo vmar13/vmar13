@@ -7,13 +7,10 @@ Hi, I'm a full stack software engineer with a background in advertising, journal
 - JavaScript
 - Ruby on Rails 
   
- ### Current Project
+ ### Projects
  🌀 [Unwind](https://www.youtube.com/watch?v=v7KwQT727PM&feature=youtu.be) - an app that teaches users breathing techniques to relax<br />
  [frontend](https://github.com/vmar13/unwind-frontend) | [backend](https://github.com/vmar13/unwind-backend) <br />
  
- Check out a [Medium](https://vmar76.medium.com/using-css-animations-to-visualize-breathing-techniques-7a20ee0aed5a) article 📝 I wrote about the CSS animations I'm working on for each breathing technique.
- 
- ### Previous Projects
  🍄 [F in Tea](https://www.youtube.com/watch?v=l5ohSkA93hI&t) - an app for learning the medicinal benefits of mushroom teas and how to brew your own tea at home <br />
  📒 [RecipeKeeper](https://www.youtube.com/watch?v=gzZPe8y9l1U) - a place to store and browse through all your favorite recipes
  
