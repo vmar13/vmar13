@@ -1,6 +1,6 @@
 ### About Me
 
-Hi, I'm a full stack software engineer with a background in advertising, editing, and content management. My passion is for health and wellness, but I'm always open to learn new things. When I'm not coding, I'm hiking, cooking, or painting.
+Hi, I'm a full stack software engineer with a background in writing, editing, and content management. My passion is for health and wellness, but I'm always open to learn new things. When I'm not coding, I'm hiking, cooking, or painting.
 
 ### My Tech Stack
 - React.js
